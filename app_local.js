@@ -1,6 +1,6 @@
 // API connection settings
 app.constant('API_URL', {
-  url: 'https://sansar.thrinacia.com',
+  url: 'https://arcadia.thrinacia.com',
   loc: '/service/restv1/'
 });
 // Localization settings
